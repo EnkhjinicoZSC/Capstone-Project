@@ -1,6 +1,6 @@
 # Capstone-Project
 
-## This GitHub repo serves as a codebase for my final year capstone project, which is a web app platform for connecting chefs with customers. 
+### This GitHub repo serves as a codebase for my final year capstone project, which is a web app platform for connecting chefs with customers. 
 
 Frameworks: Django and React
 
