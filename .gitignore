@@ -2,3 +2,8 @@ venv/
 __pycache__/
 *.py[cod]
 *$py.class
+db.sqlite3
+Chefly/__pycache__/settings.cpython-311.pyc
+Chefly/__pycache__/urls.cpython-311.pyc
+customer/__pycache__/models.cpython-311.pyc
+customer/__pycache__/views.cpython-311.pyc
